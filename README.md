@@ -6,4 +6,4 @@ Comecei minha jornada em TI em 2023, saindo da contabilidade, e esse foi meu pri
 - **O que aprendi:** Como usar variáveis e tomar decisões no código.
 - **Momento legal:** Testei várias vezes pra ver o herói subir de nível!
 
-Feito por mim, Mariana, como o pontapé inicial da minha transição pra tech.
+Feito por mim, como o pontapé inicial da minha transição pra tech.
